@@ -20,5 +20,5 @@ Designed and built by **TahmAdim** (*Tanvir Rahman Fahim*).
 The project is built as a single-file, self-contained web application:
 
 ```text
-├── main.html       # Combined structure, styling (CSS), and canvas scripts (JS)
+├── index.html       # Combined structure, styling (CSS), and canvas scripts (JS)
 └── README.md        # Documentation and license information
